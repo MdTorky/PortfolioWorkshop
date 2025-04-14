@@ -1,10 +1,13 @@
 import { useState } from 'react'
+import { Routes, Route } from "react-router-dom"
 
 function App() {
 
   return (
     <div>
-      <h1></h1>
+      <Routes>
+
+      </Routes>
     </div>
   )
 }
