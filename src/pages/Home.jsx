@@ -23,7 +23,7 @@ const Home = () => {
                                     className="w-full h-48 object-cover"
                                 />
                                 <div className="p-6">
-                                    <h3 className="text-xl font-bold text-white mb-2">Project Title</h3>
+                                    <h3 className="text-xl font-bold text-white mb-2">Project Title {item}</h3>
                                     <p className="text-gray-300 mb-4">
                                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit provident cupiditate architecto sequi natus deleniti fuga quidem voluptatibus dolorem nostrum.
                                     </p>
