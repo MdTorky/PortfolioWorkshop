@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "position": "Senior Frontend Developer",
+    "company": "Tech Solutions Inc.",
+    "location": "San Francisco, CA",
+    "startDate": "Jan 2022",
+    "endDate": "Present",
+    "responsibilities": [
+      "Lead the development of the company's flagship web application using React and TypeScript",
+      "Implemented responsive designs and improved website performance by 40%",
+      "Collaborated with UX designers to create intuitive user interfaces",
+      "Mentored junior developers and conducted code reviews",
+      "Implemented CI/CD pipelines and testing strategies"
+    ],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Redux",
+      "Tailwind CSS",
+      "Jest",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "id": 2,
+    "position": "Frontend Developer",
+    "company": "Digital Innovations",
+    "location": "New York, NY",
+    "startDate": "Mar 2020",
+    "endDate": "Dec 2021",
+    "responsibilities": [
+      "Developed and maintained multiple client websites using React and JavaScript",
+      "Built reusable components and front-end libraries for future use",
+      "Optimized applications for maximum speed and scalability",
+      "Collaborated with back-end developers and designed RESTful APIs",
+      "Participated in daily stand-ups and sprint planning meetings"
+    ],
+    "technologies": [
+      "React",
+      "JavaScript",
+      "SASS",
+      "RESTful APIs",
+      "Agile/Scrum"
+    ]
+  },
+  {
+    "id": 3,
+    "position": "Web Developer Intern",
+    "company": "StartUp Ventures",
+    "location": "Boston, MA",
+    "startDate": "Jun 2019",
+    "endDate": "Feb 2020",
+    "responsibilities": [
+      "Assisted in developing and maintaining company website using HTML, CSS, and JavaScript",
+      "Created responsive layouts and implemented cross-browser compatibility",
+      "Collaborated with the design team to implement visual elements",
+      "Participated in code reviews and contributed to documentation",
+      "Gained experience with version control systems and project management tools"
+    ],
+    "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap", "Git"]
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "Frontend": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Vue.js",
+    "Tailwind CSS",
+    "SASS",
+    "Redux",
+    "Framer Motion"
+  ],
+  "Backend": [
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Firebase",
+    "REST API",
+    "GraphQL",
+    "SQL",
+    "PostgreSQL",
+    "Prisma",
+    "Authentication"
+  ],
+  "Mobile": ["React Native", "Expo", "iOS", "Android", "Mobile UI/UX"],
+  "Tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma",
+    "Adobe XD",
+    "Webpack",
+    "Vite",
+    "Jest",
+    "Testing Library",
+    "CI/CD"
+  ],
+  "Design": [
+    "UI/UX Design",
+    "Responsive Design",
+    "Wireframing",
+    "Prototyping",
+    "Accessibility",
+    "Color Theory"
+  ],
+  "Soft Skills": [
+    "Problem Solving",
+    "Communication",
+    "Teamwork",
+    "Time Management",
+    "Adaptability",
+    "Creativity",
+    "Critical Thinking"
+  ]
+}
