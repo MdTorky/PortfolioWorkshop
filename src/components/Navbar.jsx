@@ -18,7 +18,7 @@ const Navbar = () => {
     const socialLink = [
         { icon: "mdi:linkedin", link: "https://www.linkedin.com/in/mdtorky/" },
         { icon: "mdi:instagram", link: "https://www.instagram.com/mohdtorky/" },
-        { icon: "ic:baseline-email", link: "" }
+        { icon: "ic:baseline-email", link: "mailto:mohamed2003torky@gmail.com" }
     ]
 
     const toggleMenu = () => {
