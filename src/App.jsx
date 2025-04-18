@@ -7,6 +7,7 @@ import Resume from './pages/Resume'
 import About from './pages/About'
 import Footer from './components/Footer'
 import NotFound from './pages/NotFound'
+import Styles from './pages/Styles'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
         <Route exact path="/projects" element={<Projects />} />
         <Route exact path="/resume" element={<Resume />} />
         <Route exact path="/about" element={<About />} />
+        <Route exact path="/styles" element={<Styles />} />
         <Route exact path="/*" element={<NotFound />} />
       </Routes>
       <Footer />
