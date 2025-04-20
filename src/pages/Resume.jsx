@@ -57,7 +57,7 @@ const Resume = () => {
                 <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
                     <h2 className="text-2xl font-bold text-darktheme mb-8">Skills & Expertise</h2>
 
-                    <div className="flex flex-1 gap-6">
+                    <div className="flex flex-1 lg:flex-row flex-col gap-6">
                         <div className="flex-1 bg-darktheme rounded-lg shadow-md p-6">
                             <h3 className="text-xl font-bold text-white mb-4">Technical Skills</h3>
 
