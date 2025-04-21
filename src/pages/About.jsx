@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 import { Icon } from "@iconify/react"
 import skillsData from "../data/skills.json"
 import SkillCard from "../components/SkillCard"
-import profile from '../assets/Balto.jpg'
+import profile from '../assets/pexels-photo-771742.jpeg'
 
 const About = () => {
 

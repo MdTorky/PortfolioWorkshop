@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 import { Icon } from "@iconify/react"
-import profile from '../assets/Balto.jpg'
+import profile from '../assets/pexels-photo-771742.jpeg'
 import projects from '../data/projects.json'
 import skills from '../data/skills.json'
 
